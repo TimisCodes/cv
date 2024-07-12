@@ -1,0 +1,9 @@
+html{
+    background-color: azure;
+}
+li[value="1"]{
+    font-weight: bold;
+}
+ul[value="3"]{
+    font-weight: normal;
+}
